@@ -109,32 +109,51 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: RESHMA C
+RegisterNumber:  23012886
 */
+Code:
+SR flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/bef57db4-458c-426c-b9d5-b5bc4db204e9)
+
+D flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/888c6480-41de-417f-b3e3-b7dfaad973a0)
+
+JK flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/6ba7707d-7298-4599-a9bf-e5a2807ae9e1)
+
+T flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/9915b1be-3154-4794-a77e-9d0b053dd62e)
 
 
 
+### RTL LOGIC FOR FLIPFLOPS :
+SR flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/ee38b5d0-3a0f-4d57-a65a-8f23b6931ca4)
+
+D flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/fb4c1908-a69b-4a67-9d0f-5e36b2015415)
+
+JK flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/f2abcf8a-b3a8-4cf4-874e-01b65967a425)
 
 
-
-### RTL LOGIC FOR FLIPFLOPS 
-
-
+T flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/02815088-4b5d-4d1f-a9d4-6566f6038b60)
 
 
+### TIMING DIGRAMS FOR FLIP FLOPS :
+SR flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/5e2bf06a-4614-40b4-a45f-2e7cc8031c5e)
+
+D flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/5f903757-7074-4e8b-9ff7-60aca3e02275)
 
 
+JK flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/14d161ea-78b7-4b57-85dd-b8f09579a3b6)
+T flip flop:
+![image](https://github.com/RESHMA22C/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147474426/b0d84cc6-6a9d-436b-a97f-ef6c6d6ebda1)
 
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
-
-
-
-### RESULTS 
+### RESULTS:
+Thus,all the flipflops are designed and truthtable are verified using quartus software
